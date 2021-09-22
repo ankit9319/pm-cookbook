@@ -6,6 +6,7 @@ This repository is the back-end for a public GitHub Pages site which uses the id
 
 ## Adding Recipes to this Cookbook
 
+
 1. Create a fork of this repository
 2. Create a branch with the name of the recipe you want to add
 3. Commit your changes to your branch
